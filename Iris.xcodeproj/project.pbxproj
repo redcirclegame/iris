@@ -560,9 +560,11 @@
 					};
 					4E76DD501BF392B3008D2FF3 = {
 						CreatedOnToolsVersion = 7.1.1;
+						LastSwiftMigration = 0800;
 					};
 					4E76DD5A1BF392B3008D2FF3 = {
 						CreatedOnToolsVersion = 7.1.1;
+						LastSwiftMigration = 0800;
 					};
 				};
 			};
@@ -857,6 +859,7 @@
 				INFOPLIST_FILE = Iris/Platforms/iOS/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = com.hodinkee.Iris;
 				PRODUCT_NAME = Iris;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -871,6 +874,7 @@
 				INFOPLIST_FILE = Iris/Platforms/iOS/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = com.hodinkee.Iris;
 				PRODUCT_NAME = Iris;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -883,6 +887,7 @@
 				INFOPLIST_FILE = Tests/Platforms/iOS/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = com.hodinkee.IrisTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -895,6 +900,7 @@
 				INFOPLIST_FILE = Tests/Platforms/iOS/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = com.hodinkee.IrisTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
